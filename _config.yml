@@ -2,7 +2,8 @@ title: 一个网页
 author: 909101
 url: https://909101.github.io/0/ # root address of the site
 description: > # description of the site (multiple lines allowed)
-  这是一个普通的网页！\还在建设中！
+  这是一个普通的网页！
+  还在建设中！
 
 permalink: /:slug
 
