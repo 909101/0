@@ -1,12 +1,12 @@
 navbar_entries:
-  - title: about
+  - title: 关于
     url: about
 
-  - title: blog
+  - title: 文章
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: Github主页
+    url: https://github.com/909101/0/
 
 project_entries:
   - title: Project 1
