@@ -5,6 +5,16 @@ description: > # description of the site (multiple lines allowed)
   这是一个普通的网页！？！
    > 还在建设中！
 
+
+  ~~~ html
+  <iframe
+  src="https://ragflow-dev.hkust.edu.hk/chat/share?shared_id=89f36da6309711f0922be240c3835447&from=agent&auth=NhYmI4YjU2ZWRjNjExZWY4NzQzYTY5MT"
+  style="width: 100%; height: 100%; min-height: 600px"
+  frameborder="0"
+>
+</iframe>
+~~~
+
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
